@@ -1,0 +1,56 @@
+# generated using pymatgen
+data_TiMnO3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.19671574
+_cell_length_b   5.19671574
+_cell_length_c   14.44124991
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   120.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   TiMnO3
+_chemical_formula_sum   'Ti6 Mn6 O18'
+_cell_volume   337.748429453
+_cell_formula_units_Z   6
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ti  Ti1  1  0.000000  0.000000  0.146336  1
+  Ti  Ti2  1  0.000000  0.000000  0.853664  1
+  Ti  Ti3  1  0.666667  0.333333  0.479670  1
+  Ti  Ti4  1  0.666667  0.333333  0.186997  1
+  Ti  Ti5  1  0.333333  0.666667  0.813003  1
+  Ti  Ti6  1  0.333333  0.666667  0.520330  1
+  Mn  Mn7  1  0.333333  0.666667  0.025748  1
+  Mn  Mn8  1  0.666667  0.333333  0.974252  1
+  Mn  Mn9  1  0.000000  0.000000  0.359081  1
+  Mn  Mn10  1  0.333333  0.666667  0.307585  1
+  Mn  Mn11  1  0.666667  0.333333  0.692415  1
+  Mn  Mn12  1  0.000000  0.000000  0.640919  1
+  O  O13  1  0.652650  0.955143  0.910757  1
+  O  O14  1  0.044857  0.697506  0.910757  1
+  O  O15  1  0.302494  0.347350  0.910757  1
+  O  O16  1  0.347350  0.044857  0.089243  1
+  O  O17  1  0.697506  0.652650  0.089243  1
+  O  O18  1  0.955143  0.302494  0.089243  1
+  O  O19  1  0.319317  0.288477  0.244090  1
+  O  O20  1  0.711523  0.030840  0.244090  1
+  O  O21  1  0.969160  0.680683  0.244090  1
+  O  O22  1  0.014017  0.378190  0.422577  1
+  O  O23  1  0.364173  0.985983  0.422577  1
+  O  O24  1  0.621810  0.635827  0.422577  1
+  O  O25  1  0.985983  0.621810  0.577423  1
+  O  O26  1  0.378190  0.364173  0.577423  1
+  O  O27  1  0.635827  0.014017  0.577423  1
+  O  O28  1  0.680683  0.711523  0.755910  1
+  O  O29  1  0.030840  0.319317  0.755910  1
+  O  O30  1  0.288477  0.969160  0.755910  1
