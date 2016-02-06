@@ -1,9 +1,9 @@
 # SMACT Practical
 
-A series of computational experiments with the open-source Python package [SMACT](https://github.com/WMD-group/smact).
+A series of computational experiments using the open-source Python package [SMACT](https://github.com/WMD-group/smact).
 
 ### Usage
-The practicals are written in iPython notebook, which is included with standard Python distributions including [Anaconda](https://www.continuum.io/downloads) and the [Homebrew Superpack for Mac](http://stronginference.com/ScipySuperpack/).
+The practicals are written in iPython notebook, which is included with standard Python distributions such as [Anaconda](https://www.continuum.io/downloads) and the [Homebrew Superpack for Mac](http://stronginference.com/ScipySuperpack/).
 
 ## Elemental Combinations
 ```
