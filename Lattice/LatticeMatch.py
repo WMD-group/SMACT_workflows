@@ -224,6 +224,10 @@ xtalA = io.read(options.mater1)
 xtalB = io.read(options.mater2)
 # mathced_pairs is a list containing the Pairs class for all unique interfaces
 matched_pairs = []
+print " "
+print "-------------------------------------------------------------------------------------------------"
+print "-------------------------------------------------------------------------------------------------"
+print "(miller 1) (miller 2) (mult 1) (mult 2) [Strain in vector u, Strain in vector v, angle mis-match]"
 # Set the  values for material A
 for index_a in indices_a:
     if index_a != (0, 0, 0):
@@ -266,6 +270,7 @@ print material1, material2, len(matched_pairs)
 for pair in matched_pairs:
     print pair.surface1,pair.surface2, pair.multiplicity1, pair.multiplicity2, pair.strains
 
+print "#################################################################################################"
     #print "###-----------------------------------###"
     #print "###                                   ###"
     #print "###-----------------------------------###"
