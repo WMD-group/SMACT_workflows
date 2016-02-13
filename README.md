@@ -1,6 +1,9 @@
 # SMACT Practical
 A series of computational experiments using the open-source Python package [SMACT](https://github.com/WMD-group/smact).
 
+### Python
+An introduction to the importance of Python for scientists, and the basics of the coding language, is available [elsewhere](https://www.researchgate.net/profile/Brian_Toby/publication/269995603_Why_scientists_should_learn_to_program_in_Python/links/549dbd610cf2b803713a7bec.pdf). For a complete beginner, [Codecademy](https://www.codecademy.com/learn/python) is a good place to start. 
+
 ### Requirements
 The practicals are written in iPython notebook, which is included with standard Python distributions such as [Anaconda](https://www.continuum.io/downloads) and the [Homebrew Superpack for Mac](http://stronginference.com/ScipySuperpack/).
 
