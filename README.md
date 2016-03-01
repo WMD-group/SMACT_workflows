@@ -1,7 +1,7 @@
 # SMACT Practical
 A series of computational experiments using the open-source Python package [SMACT](https://github.com/WMD-group/smact).
 
-### Python
+### Python
 An introduction to the importance of Python for scientists, and the basics of the coding language, is available [elsewhere](https://www.researchgate.net/profile/Brian_Toby/publication/269995603_Why_scientists_should_learn_to_program_in_Python/links/549dbd610cf2b803713a7bec.pdf). For a complete beginner, [Codecademy](https://www.codecademy.com/learn/python) is a good place to start. 
 
 ### Requirements
@@ -25,3 +25,6 @@ ipython notebook Combinations_practical.ipynb
 ```
 ipython notebook ELS_practical.ipynb
 ```
+
+### Public Server
+It can be useful to run the notebook on a single machine, where others can log in via a web browswer. This process is detailed [elsewhere](http://jupyter-notebook.readthedocs.org/en/latest/public_server.html).
