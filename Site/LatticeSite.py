@@ -245,7 +245,8 @@ for index_a in indices_a:
 			if len(matched_pairs) == 0 and new.strains[2] == 0.:
 			    matched_pairs.append(new)
 		  	for old in matched_pairs:
-			    if new.multiplicity1 == old.multiplicity1 and new.multiplicity2 == old.multiplicity2 and new.strains == old.strains: 
+			    if new.multiplicity1 == old.multiplicity1 and new.multiplicity2 == old.multiplicity2:
+				if new.surface1 == old.surface1 and new.surface2 == old.surface2:
 				isnew = False
 			    else:
 				continue
