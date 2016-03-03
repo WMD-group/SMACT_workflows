@@ -210,7 +210,7 @@ material2 = re.sub(r'\.cif$', '', options.mater2)
 
 # Scan through the various miller indices
 indices_a = list(itertools.product([0,1],repeat=3))
-indices_a = [(1,0,0),(1,1,0)]   # Just consider these two for MAPI
+#indices_a = [(1,0,0),(1,1,0)]   # Just consider these two for MAPI
 xtalA = io.read(options.mater1)
 xtalB = io.read(options.mater2)
 # mathced_pairs is a list containing the Pairs class for all unique interfaces
@@ -247,14 +247,14 @@ for index_a in indices_a:
 		  	for old in matched_pairs:
 			    if new.multiplicity1 == old.multiplicity1 and new.multiplicity2 == old.multiplicity2:
 				if new.surface1 == old.surface1 and new.surface2 == old.surface2:
-				isnew = False
+				    isnew = False
 			    else:
 				continue
 			if len(matched_pairs) > 0 and isnew and new.strains[2] == 0. :
 			   matched_pairs.append(new)
 #print material1, material2, len(matched_pairs)
 for pair in matched_pairs:
-    material_1 = 'CH3NH3PbI3'
+    material_1 = pair.material1
     material_2 = pair.material2
     print ""
     print material_1, material_2
