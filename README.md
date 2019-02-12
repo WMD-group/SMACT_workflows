@@ -1,4 +1,4 @@
-# SMACT Practical
+# SMACT Workflows
 A series of computational experiments using the open-source package [SMACT](https://github.com/WMD-group/smact).
 
 ## Python
