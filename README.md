@@ -1,5 +1,5 @@
 [![made-with-python](https://img.shields.io/badge/Made%20with-Python-1f425f.svg)](https://www.python.org/)
-[![GPLv3 license](https://img.shields.io/badge/License-GPLv3-blue.svg)](http://perso.crans.org/besson/LICENSE.html)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 # SMACT Workflows
 A series of computational experiments using the open-source package [SMACT](https://github.com/WMD-group/smact).
@@ -17,10 +17,14 @@ We have been developing low-cost procedures for screening hypothetical materials
 
 ## Workflows
 
+### Outreach 2020
+A steamlined version of the element combinations practical. It is a one hour activity for school students.
+
 ### Masters practical
 This is a two-part practical that has been used as a teaching aid for masters courses in the UK (University of Bath) and Korea (Yonsei University). It is probably the most pedagogical example and is a good place to start. It consists of two parts:
 
-- *Elemental Combinations* `Jupyter notebook Combinations_practical.ipynb`. The "bread and butter" of SMACT. This covers the basics of how the search space for new inorganic materials can be constructed by considering raw combinations of elements. The resulting space is then filtered using rules based on simple chemical ideas such as electronegativity and charge neutrality. 
-- *Solar Cell Contacts* `Jupyter Notebook ELS_practical.ipynb` covers an example procedure for matching the surfaces of two inorganic materials together, as described in [this publication](https://pubs.rsc.org/en/content/articlelanding/2016/tc/c5tc04091d#!divAbstract) by Butler et. al.
+- *Elemental Combinations* `jupyter notebook Combinations_practical.ipynb`. The "bread and butter" of SMACT. This covers the basics of how the search space for new inorganic materials can be constructed by considering raw combinations of elements. The resulting space is then filtered using rules based on simple chemical ideas such as electronegativity and charge neutrality. 
+- *Solar Cell Contacts* `jupyter notebook ELS_practical.ipynb` covers an example procedure for matching the surfaces of two inorganic materials together, as described in [this publication](https://pubs.rsc.org/en/content/articlelanding/2016/tc/c5tc04091d#!divAbstract) by Butler et. al.
 
-### Example 1 TODO 
+### Solar oxides
+A simple workflow for generating quaternary oxide compositions and  a featurised dataframe for machine learning. A more extensive example can be found [elsewhere](https://github.com/WMD-group/Solar_oxides_data).
