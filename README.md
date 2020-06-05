@@ -17,14 +17,14 @@ We have been developing low-cost procedures for screening hypothetical materials
 
 ## Workflows
 
-### Outreach 2020
+### [Outreach 2020](outreach-2020)
 A steamlined version of the element combinations practical. It is a one hour activity for school students.
 
-### Masters practical
+### [Masters practical](masters_practical)
 This is a two-part practical that has been used as a teaching aid for masters courses in the UK (University of Bath) and Korea (Yonsei University). It is probably the most pedagogical example and is a good place to start. It consists of two parts:
 
 - *Elemental Combinations* `jupyter notebook Combinations_practical.ipynb`. The "bread and butter" of SMACT. This covers the basics of how the search space for new inorganic materials can be constructed by considering raw combinations of elements. The resulting space is then filtered using rules based on simple chemical ideas such as electronegativity and charge neutrality. 
 - *Solar Cell Contacts* `jupyter notebook ELS_practical.ipynb` covers an example procedure for matching the surfaces of two inorganic materials together, as described in [this publication](https://pubs.rsc.org/en/content/articlelanding/2016/tc/c5tc04091d#!divAbstract) by Butler et. al.
 
-### Solar oxides
+### [Solar oxides](solar_oxides)
 A simple workflow for generating quaternary oxide compositions and  a featurised dataframe for machine learning. A more extensive example can be found [elsewhere](https://github.com/WMD-group/Solar_oxides_data).
