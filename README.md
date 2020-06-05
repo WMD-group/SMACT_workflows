@@ -17,7 +17,7 @@ We have been developing low-cost procedures for screening hypothetical materials
 
 ## Workflows
 
-### [Outreach 2020](./outreach-2020)
+### [Outreach](./outreach_2020)
 A steamlined version of the element combinations practical. It is a one hour activity for school students.
 
 ### [Masters practical](./masters_practical)
