@@ -17,8 +17,7 @@ We have been developing low-cost procedures for screening hypothetical materials
 
 ## Workflows
 
-### [Outreach](./outreach_2020) [![badge](https://img.shields.io/badge/launch%20-tutorial-579ACA.svg)](https://mybinder.org/v2/gh/WMD-group/SMACT_workflows/blob/master/outreach_2020/materials_combinations_2020.ipynb/master)[![badge](https://img.shields.io/badge/launch%20-notebook-579ACA.svg)](https://mybinder.org/v2/gh/WMD-group/SMACT_workflows/blob/master/outreach_2020/python3_intro_2020.ipynb/master)
-
+### [Outreach](./outreach_2020) [![badge](https://img.shields.io/badge/launch%20-tutorial-579ACA.svg)](https://mybinder.org/v2/gh/WMD-group/SMACT_workflows/master?filepath=outreach_2020%2Fpython3_intro_2020.ipynb)[![badge](https://img.shields.io/badge/launch%20-notebook-579ACA.svg)](https://mybinder.org/v2/gh/WMD-group/SMACT_workflows/master?filepath=outreach_2020%2Fmaterials_combinations_2020.ipynb)
 
 A steamlined version of the element combinations practical. It is a one hour activity for school students.
 
